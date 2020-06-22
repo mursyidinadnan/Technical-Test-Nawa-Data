@@ -1,0 +1,6 @@
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Biggest_Factor_Nawa_Data\bin\Debug\Biggest_Factor_Nawa_Data.exe.config
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Biggest_Factor_Nawa_Data\bin\Debug\Biggest_Factor_Nawa_Data.exe
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Biggest_Factor_Nawa_Data\bin\Debug\Biggest_Factor_Nawa_Data.pdb
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Biggest_Factor_Nawa_Data\obj\Debug\Biggest_Factor_Nawa_Data.csprojAssemblyReference.cache
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Biggest_Factor_Nawa_Data\obj\Debug\Biggest_Factor_Nawa_Data.exe
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Biggest_Factor_Nawa_Data\obj\Debug\Biggest_Factor_Nawa_Data.pdb

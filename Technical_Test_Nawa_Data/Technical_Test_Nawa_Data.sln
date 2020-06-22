@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biggest_Factor_Nawa_Data", "Biggest_Factor_Nawa_Data\Biggest_Factor_Nawa_Data.csproj", "{F5E8539A-7169-4972-A98F-EB1479926B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort_Character_Nawa_Data", "Sort_Character_Nawa_Data\Sort_Character_Nawa_Data.csproj", "{37A7C6BD-FF8F-4BFC-8F17-78684D778C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E8539A-7169-4972-A98F-EB1479926B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E8539A-7169-4972-A98F-EB1479926B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E8539A-7169-4972-A98F-EB1479926B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E8539A-7169-4972-A98F-EB1479926B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A7C6BD-FF8F-4BFC-8F17-78684D778C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A7C6BD-FF8F-4BFC-8F17-78684D778C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A7C6BD-FF8F-4BFC-8F17-78684D778C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A7C6BD-FF8F-4BFC-8F17-78684D778C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5920ABB2-F6F5-42FF-A48C-8BE704F0F2DE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Sort_Character_Nawa_Data\bin\Debug\Sort_Character_Nawa_Data.exe.config
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Sort_Character_Nawa_Data\bin\Debug\Sort_Character_Nawa_Data.exe
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Sort_Character_Nawa_Data\bin\Debug\Sort_Character_Nawa_Data.pdb
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Sort_Character_Nawa_Data\obj\Debug\Sort_Character_Nawa_Data.exe
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Sort_Character_Nawa_Data\obj\Debug\Sort_Character_Nawa_Data.pdb
+C:\Users\mursy\source\repos\Biggest_Factor_Nawa_Data\Sort_Character_Nawa_Data\obj\Debug\Sort_Character_Nawa_Data.csprojAssemblyReference.cache
